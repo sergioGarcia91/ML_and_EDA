@@ -2,7 +2,7 @@
 
 Este repositorio contiene una colección de Notebooks desarrollados en [Google Colaboratory](https://colab.research.google.com). El propósito de estos Notebooks es ser una ayuda en el proceso de aprendizaje de Machine Learning (ML) y el Análisis Exploratorio de Datos (EDA, por sus siglas en ingles), en el lenguaje de programación de Python 3. 
 
->**Observación.** Los Notebooks estan organizados en una secuencia preliminar de trabajo, por lo general va encontrar cargado el Dataset original. Por lo que los resultados no serian los mas optimos o deseables en algunas ocaciones, entre sus tareas en este proceso de aprendizaje es replicar los Notebooks con en Dataset ya ajustado o filtrado posterior al EDA. 
+>**Observación.** Los Notebooks estan organizados en una secuencia preliminar de trabajo, por lo general va encontrar cargado el Dataset original. Por lo que los resultados no serían los óptimos o deseables en algunas ocasiones, entre sus tareas en este proceso de aprendizaje es replicar los Notebooks con en Dataset ya ajustado o filtrado posterior al EDA. 
 
 ## Objetivo
 
@@ -25,6 +25,6 @@ Al hacer clic en el icono ![Open In Colab](https://colab.research.google.com/ass
 
 ## Contribuciones
 
-¡Las contribuciones y sugerencias son bienvenidas! Si encuentras errores o tienes ideas para mejorar los Notebooks, no dudes en informarlo. ¡Agradeco su colaboración!
+¡Las contribuciones y sugerencias son bienvenidas! Si encuentras errores o tienes ideas para mejorar los Notebooks, no dudes en informarlo. ¡Agradezco su colaboración!
 
-¡Feliz aprendizaje de Machine Learnign :robot: y Exploratori Data Analysis :chart_with_upwards_trend:!
+¡Feliz aprendizaje de Machine Learnign :robot: y Exploratory Data Analysis :chart_with_upwards_trend:!
