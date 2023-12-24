@@ -20,12 +20,11 @@ Proporcionar conocimientos básicos en ML y EDA. En el futuro, espero poder ofre
 
 Al hacer clic en el icono ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) ubicado al inicio del Notebook, se abrirá el Notebook en Google Colaboratory.
 
-1. [01a_Sismos_EDA]([https://github.com/sergioGarcia91/Introductorio-Python-3/blob/d6b487f9a4f4e481dbd1d888347dae1fee327e3b/Python_01a_TiposDeDatos.ipynb](https://github.com/sergioGarcia91/ML_and_EDA/blob/0c33436771e4eb7f485246f212f8971768720c98/01a_Sismos_EDA.ipynb)): Notebook introductorio en el EDA
+1. [01a_Sismos_EDA](https://github.com/sergioGarcia91/ML_and_EDA/blob/161ec77e98c36a8c34eb48343e1cad2d82e683ed/01a_Sismos_EDA.ipynb): Notebook introductorio al EDA
 2. En desarrollo ... 
 
 ## Contribuciones
 
 ¡Las contribuciones y sugerencias son bienvenidas! Si encuentras errores o tienes ideas para mejorar los Notebooks, no dudes en informarlo. ¡Agradeco su colaboración!
-
 
 ¡Feliz aprendizaje de Machine Learnign :robot: y Exploratori Data Analysis :chart_with_upwards_trend:!
