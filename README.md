@@ -21,7 +21,7 @@ Proporcionar conocimientos básicos en ML y EDA. En el futuro, espero poder ofre
 Al hacer clic en el icono ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) ubicado al inicio del Notebook, se abrirá el Notebook en Google Colaboratory.
 
 1. [01a_Sismos_EDA](https://github.com/sergioGarcia91/ML_and_EDA/blob/161ec77e98c36a8c34eb48343e1cad2d82e683ed/01a_Sismos_EDA.ipynb): Notebook introductorio al EDA para el Dataset de Sismos
-2. [01b_Sismos_RegresionLineal](https://github.com/sergioGarcia91/ML_and_EDA/blob/ef1458fdae610ac1961d61f5cd55f956ddfa2db1/01b_Sismos_RegresionLineal.ipynb): Notebook donde se generan un modelo de regresión lineal simple y regresión lineal múltiple para el Dataset de Sismos
+2. [01b_Sismos_RegresionLineal](https://github.com/sergioGarcia91/ML_and_EDA/blob/ef1458fdae610ac1961d61f5cd55f956ddfa2db1/01b_Sismos_RegresionLineal.ipynb): Notebook donde se genera un modelo de regresión lineal simple y regresión lineal múltiple para el Dataset de Sismos
 3. ***En desarrollo ...***
 
 ## Contribuciones
