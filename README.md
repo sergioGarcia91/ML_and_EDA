@@ -22,7 +22,9 @@ Al hacer clic en el icono ![Open In Colab](https://colab.research.google.com/ass
 
 1. [01a_Sismos_EDA](https://github.com/sergioGarcia91/ML_and_EDA/blob/161ec77e98c36a8c34eb48343e1cad2d82e683ed/01a_Sismos_EDA.ipynb): Notebook introductorio al EDA para el Dataset de Sismos
 2. [01b_Sismos_RegresionLineal](https://github.com/sergioGarcia91/ML_and_EDA/blob/ef1458fdae610ac1961d61f5cd55f956ddfa2db1/01b_Sismos_RegresionLineal.ipynb): Notebook donde se genera un modelo de regresión lineal simple y regresión lineal múltiple para el Dataset de Sismos
-3. ***En desarrollo ...*** :hourglass:
+3. [01c_Sismos_DBSCAN](https://github.com/sergioGarcia91/ML_and_EDA/blob/c0059ec22d87e4f2dbc2689eaeade5e7ebc520c9/01c_Sismos_DBSCAN.ipynb): Notebook de clusterización utilizando el algoritmo DBSCAN para el catálogo sísmico.
+4. [01d_Sismos_KMeans](https://github.com/sergioGarcia91/ML_and_EDA/blob/c0059ec22d87e4f2dbc2689eaeade5e7ebc520c9/01d_Sismos_KMeans.ipynb): Notebook de clusterización utilizando el algoritmo K-Means para el catálogo sísmico.
+5. ***En desarrollo ...*** :hourglass:
 
 ## Contribuciones
 
