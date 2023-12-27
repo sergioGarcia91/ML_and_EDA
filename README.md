@@ -24,7 +24,8 @@ Al hacer clic en el icono ![Open In Colab](https://colab.research.google.com/ass
 2. [01b_Sismos_RegresionLineal](https://github.com/sergioGarcia91/ML_and_EDA/blob/ef1458fdae610ac1961d61f5cd55f956ddfa2db1/01b_Sismos_RegresionLineal.ipynb): Notebook donde se genera un modelo de regresión lineal simple y regresión lineal múltiple para el Dataset de Sismos
 3. [01c_Sismos_DBSCAN](https://github.com/sergioGarcia91/ML_and_EDA/blob/c0059ec22d87e4f2dbc2689eaeade5e7ebc520c9/01c_Sismos_DBSCAN.ipynb): Notebook de clusterización utilizando el algoritmo DBSCAN para el catálogo sísmico.
 4. [01d_Sismos_KMeans](https://github.com/sergioGarcia91/ML_and_EDA/blob/c0059ec22d87e4f2dbc2689eaeade5e7ebc520c9/01d_Sismos_KMeans.ipynb): Notebook de clusterización utilizando el algoritmo K-Means para el catálogo sísmico.
-5. ***En desarrollo ...*** :hourglass:
+5. [02a_GeologiaMesa_MLPClassifier](https://github.com/sergioGarcia91/ML_and_EDA/blob/39b1d5e8f4a7052caeadf86da1ab4fe5424d8279/02a_GeologiaMesa_MLPClassifier.ipynb): Notebook de clasificación supervisada utilizando el Multi-layer Perceptron Classifier para el modelo geológico de la Mesa de Los Santos.
+6. ***En desarrollo ...*** :hourglass:
 
 ## Contribuciones
 
