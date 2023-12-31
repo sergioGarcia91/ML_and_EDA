@@ -25,7 +25,8 @@ Al hacer clic en el icono ![Open In Colab](https://colab.research.google.com/ass
 3. [01c_Sismos_DBSCAN](https://github.com/sergioGarcia91/ML_and_EDA/blob/c0059ec22d87e4f2dbc2689eaeade5e7ebc520c9/01c_Sismos_DBSCAN.ipynb): Notebook de clusterización utilizando el algoritmo DBSCAN para el catálogo sísmico.
 4. [01d_Sismos_KMeans](https://github.com/sergioGarcia91/ML_and_EDA/blob/c0059ec22d87e4f2dbc2689eaeade5e7ebc520c9/01d_Sismos_KMeans.ipynb): Notebook de clusterización utilizando el algoritmo K-Means para el catálogo sísmico.
 5. [02a_GeologiaMesa_MLPClassifier](https://github.com/sergioGarcia91/ML_and_EDA/blob/39b1d5e8f4a7052caeadf86da1ab4fe5424d8279/02a_GeologiaMesa_MLPClassifier.ipynb): Notebook de clasificación supervisada utilizando el Multi-layer Perceptron Classifier para el modelo geológico de la Mesa de Los Santos.
-6. ***En desarrollo ...*** :hourglass:
+6. [03a_Precipitacion_RegresionLogistica](https://github.com/sergioGarcia91/ML_and_EDA/blob/ce7698d0c39bacf6c74bd5b0291a963e552a3084/03a_Precipitacion_RegresionLogistica.ipynb): Notebook para la predicción de probabilidades de lluvia en Bucaramanga (año 2020) mediante Logistic Regression.
+7. ***En desarrollo ...*** :hourglass:
 
 ## Contribuciones
 
