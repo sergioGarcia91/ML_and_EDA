@@ -2,7 +2,7 @@
 
 Este repositorio contiene una colección de Notebooks desarrollados en [Google Colaboratory](https://colab.research.google.com). El propósito de estos Notebooks es ser una ayuda en el proceso de aprendizaje de Machine Learning (ML) y el Análisis Exploratorio de Datos (EDA, por sus siglas en ingles), en el lenguaje de programación de Python 3. 
 
->**Observación.** Los Notebooks estan organizados en una secuencia preliminar de trabajo, por lo general va encontrar cargado el Dataset original. Por lo que los resultados no serían los óptimos o deseables en algunas ocasiones, entre sus tareas en este proceso de aprendizaje es replicar los Notebooks con en Dataset ya ajustado o filtrado posterior al EDA. 
+>**Observación.** Los Notebooks estan organizados en una secuencia preliminar de trabajo. En general, encontrará que el conjunto de datos original se carga con un procesamiento simple. Por lo que los resultados no serían los óptimos o deseables en algunas ocasiones. Como parte de su proceso de aprendizaje, se sugiere replicar los procedimientos aplicados en los diferentes Notebooks para un único conjunto de datos ya ajustado o filtrado después de realizar el Análisis Exploratorio de Datos (EDA). Esto permitirá obtener un análisis más completo y detallado.
 
 ## Objetivo
 
@@ -11,7 +11,7 @@ Proporcionar conocimientos básicos en ML y EDA. En el futuro, espero poder ofre
 ## Características
 - **Entorno:** Todos los Notebooks están diseñados para ejecutarse en Google Colab, un entorno basado en la nube que permite escribir y ejecutar código de Python de manera interactiva.
 
-- **Estructura:** Los Notebooks están organizados secuencialmente. Algunos temas ya cubiertos pueden no ser explicados nuevamente, por lo que puede revisarlos o consultar rápidamente en la web.
+- **Estructura:** Los Notebooks están organizados secuencialmente. Algunos temas previamente abordados pueden no ser explicados o replicados nuevamente, por lo que puede repasar los Notebooks o hacer una consulta rápida en las respectivas librerías.
 
 - **Código Comentado:** El código en los Notebooks está comentado en las partes necesarias, omitiendo algunas líneas en ocasiones para que usted llegue a sus propias conclusiones.
 
@@ -27,7 +27,8 @@ Al hacer clic en el icono ![Open In Colab](https://colab.research.google.com/ass
 5. [02a_GeologiaMesa_MLPClassifier](https://github.com/sergioGarcia91/ML_and_EDA/blob/39b1d5e8f4a7052caeadf86da1ab4fe5424d8279/02a_GeologiaMesa_MLPClassifier.ipynb): Notebook de clasificación supervisada utilizando el Multi-layer Perceptron Classifier para el modelo geológico de la Mesa de Los Santos.
 6. [03a_Precipitacion_RegresionLogistica](https://github.com/sergioGarcia91/ML_and_EDA/blob/ce7698d0c39bacf6c74bd5b0291a963e552a3084/03a_Precipitacion_RegresionLogistica.ipynb): Notebook para la predicción de probabilidades de lluvia en Bucaramanga (año 2020) mediante Logistic Regression.
 7. [04a_PlugsMesa_MLPRegressor](https://github.com/sergioGarcia91/ML_and_EDA/blob/ae548e4471d7f3bbf7bc6372bb3194108516b06d/04a_PlugsMesa_MLPRegressor.ipynb): Notebook para la estimación de los valores de porosidad de las rocas aflorantes en la Mesa de Los Santos mediante el uso del Multi-layer Perceptron Regressor.
-8. ***En desarrollo ...*** :hourglass:
+8. [05a_Fracturas_DecisionTreeRegressor](https://github.com/sergioGarcia91/ML_and_EDA/blob/17122fbf6896a27db109916a4480ff7b3a83337c/05a_Fracturas_DecisionTreeRegressor.ipynb): Notebook para predecir la orientación de las fracturas en la Mesa de Los Santos utilizando el algoritmo Decision Tree Regressor.
+9. ***En desarrollo ...*** :hourglass:
 
 ## Contribuciones
 
