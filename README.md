@@ -2,7 +2,9 @@
 
 Este repositorio contiene una colección de Notebooks desarrollados en [Google Colaboratory](https://colab.research.google.com). El propósito de estos Notebooks es ser una ayuda en el proceso de aprendizaje de Machine Learning (ML) y el Análisis Exploratorio de Datos (EDA, por sus siglas en ingles), en el lenguaje de programación de Python 3. 
 
->**Observación.** Los Notebooks estan organizados en una secuencia preliminar de trabajo. En general, encontrará que el conjunto de datos original se carga con un procesamiento simple. Por lo que los resultados no serían los óptimos o deseables en algunas ocasiones. Como parte de su proceso de aprendizaje, se sugiere replicar los procedimientos aplicados en los diferentes Notebooks para un único conjunto de datos ya ajustado o filtrado después de realizar el Análisis Exploratorio de Datos (EDA). Esto permitirá obtener un análisis más completo y detallado.
+>**Observación 01.** Los Notebooks estan organizados en una secuencia preliminar de trabajo. En general, encontrará que el conjunto de datos original se carga con un procesamiento simple. Por lo que los resultados no serían los óptimos o deseables en algunas ocasiones. Como parte de su proceso de aprendizaje, se sugiere replicar los procedimientos aplicados en los diferentes Notebooks para un único conjunto de datos ya ajustado o filtrado después de realizar el Análisis Exploratorio de Datos (EDA). Esto permitirá obtener un análisis más completo y detallado.
+
+>**Observación 02:** El hecho de que el mismo valor de `random_state` no genere consistentemente el mismo modelo en ejecuciones múltiples podría atribuirse a diversas causas, como posibles cambios en los datos entre ejecuciones, actualizaciones en la biblioteca de aprendizaje automático, variaciones en el entorno de ejecución o sistema operativo. Más información: https://github.com/lmcinnes/umap/issues/153
 
 ## Objetivo
 
