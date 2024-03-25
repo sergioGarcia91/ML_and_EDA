@@ -32,7 +32,8 @@ Al hacer clic en el icono ![Open In Colab](https://colab.research.google.com/ass
 8. [04b_PlugsMesa_Bootstrapping](https://github.com/sergioGarcia91/ML_and_EDA/blob/ef138d6f158cca57187d83a9fd540236928880c1/04b_PlugsMesa_Bootstrapping.ipynb): Notebook sencillo del uso del Bootstrapping o remuestreo para los valores de porosidad del miembro superior de la Formación Los Santos, aflorante en la Mesa de Los Santos.
 10. [05a_Fracturas_DecisionTreeRegressor](https://github.com/sergioGarcia91/ML_and_EDA/blob/17122fbf6896a27db109916a4480ff7b3a83337c/05a_Fracturas_DecisionTreeRegressor.ipynb): Notebook para predecir la orientación de las fracturas en la Mesa de Los Santos utilizando el algoritmo Decision Tree Regressor.
 11. [06a_TREs_KNeighborsClassifier](https://github.com/sergioGarcia91/ML_and_EDA/blob/7bc79c9fc8a45744e8fb4222e9e7d87f1d168f4d/06a_TREs_KNeighborsClassifier.ipynb): Notebook de clasificación supervisada utilizando el K Neighbors Classifier para segmentar en categorías discretas los valores de resistividad eléctrica en siete Tomografías de Resistividad Eléctrica (TRE).
-12. ***En desarrollo ...*** :hourglass:
+12. [07a_YOLOv8_Amonites_20240323](https://github.com/sergioGarcia91/ML_and_EDA/blob/b655d6664fb8f966a97d2c2a4769ed825a196748/07a_YOLOv8_Amonites_20240323.ipynb): Notebook de detección de Amonites reentrenando una CNN correspondiente a YOLOv8.
+13. ***En desarrollo ...*** :hourglass:
 
 ## Contribuciones
 
