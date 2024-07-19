@@ -33,6 +33,7 @@ Al hacer clic en el icono ![Open In Colab](https://colab.research.google.com/ass
 10. [05a_Fracturas_DecisionTreeRegressor](https://github.com/sergioGarcia91/ML_and_EDA/blob/17122fbf6896a27db109916a4480ff7b3a83337c/05a_Fracturas_DecisionTreeRegressor.ipynb): Notebook para predecir la orientación de las fracturas en la Mesa de Los Santos utilizando el algoritmo Decision Tree Regressor.
 11. [06a_TREs_KNeighborsClassifier](https://github.com/sergioGarcia91/ML_and_EDA/blob/7bc79c9fc8a45744e8fb4222e9e7d87f1d168f4d/06a_TREs_KNeighborsClassifier.ipynb): Notebook de clasificación supervisada utilizando el K Neighbors Classifier para segmentar en categorías discretas los valores de resistividad eléctrica en siete Tomografías de Resistividad Eléctrica (TRE).
 12. [07a_YOLOv8_Amonites_20240323](https://github.com/sergioGarcia91/ML_and_EDA/blob/4081aacb63afe9fe88db9c1beeb047cb519f9813/07a_YOLOv8_Amonites_20240323.ipynb): Notebook de detección de Amonites reentrenando una CNN correspondiente a YOLOv8.
+13. [08a_MinimoLocal_MinimoGlobal](https://github.com/sergioGarcia91/ML_and_EDA/blob/f9e4c22888d4fe3a0e7a2aaa58bc0ba2549ebffa/08a_MinimoLocal_MinimoGlobal.ipynb): Notebook introductorio para entender el descenso del gradiente.
 17. ***En desarrollo ...*** :hourglass:
 
 ## Contribuciones
