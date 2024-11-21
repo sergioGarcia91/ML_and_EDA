@@ -36,7 +36,8 @@ Al hacer clic en el icono ![Open In Colab](https://colab.research.google.com/ass
 12. [07a_YOLOv8_Amonites_20240323](https://github.com/sergioGarcia91/ML_and_EDA/blob/4081aacb63afe9fe88db9c1beeb047cb519f9813/07a_YOLOv8_Amonites_20240323.ipynb): Notebook de detección de Amonites reentrenando una CNN correspondiente a YOLOv8.
 13. [08a_MinimoLocal_MinimoGlobal](https://github.com/sergioGarcia91/ML_and_EDA/blob/f9e4c22888d4fe3a0e7a2aaa58bc0ba2549ebffa/08a_MinimoLocal_MinimoGlobal.ipynb): Notebook introductorio para entender el descenso del gradiente.
 14. [09a_Afloramiento_MapaVariografico](https://github.com/sergioGarcia91/ML_and_EDA/blob/4cd584a79e00b0972ecae793dc64fa1d79876d12/09a_Afloramiento_MapaVariografico.ipynb): Notebook para entender qué es la semivarianza utilizando el mapa variográfico en una imagen de afloramiento.
-15. ***En desarrollo ...*** :hourglass:
+15. [10a_CalidadAire_RegresionLineal](https://github.com/sergioGarcia91/ML_and_EDA/blob/d9e1b8221b5a84294bfd48609c4ddc9c16ce35db/10a_CalidadAire_RegresionLineal.ipynb): Notebook para evidenciar cómo un modelo de regresión lineal se ve afectado por datos de entrenamiento con un comportamiento bimodal.
+16. ***En desarrollo ...*** :hourglass:
 
 ## Contribuciones
 
